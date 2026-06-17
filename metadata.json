@@ -1,0 +1,6 @@
+{
+  "name": "SvyamKrishi AI",
+  "description": "An AI-powered personal farming assistant designed for Indian farmers featuring crop recommendation, disease detection, profit calculator, weather advisory, and multilingual voice help.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
